@@ -44,8 +44,9 @@ The dashboard helps in:
 PowerBI-Sales-Dashboard
 │
 ├── dashboard.pbix          # Power BI dashboard file
-├── dataset.csv             # Dataset used for the dashboard
-├── dashboard_screenshot.png # Preview image of the dashboard
+├── dataset1.csv             # Dataset used for the dashboard
+├── dataset2.csv
+├── Sales dashboard.pdf # Preview image of the dashboard
 └── README.md
 ```
 
